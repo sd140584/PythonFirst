@@ -1,7 +1,7 @@
 
 def pythonFirst(num):
     for x in range(num):
-        print("Hello Python ", x, " times!\n")
+        print("Hello Python3.7 ", x, " times!\n")
 
 
 
